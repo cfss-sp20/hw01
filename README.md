@@ -16,3 +16,5 @@ Here are some of my favorite animals:
 + Cats
 + Red pandas
 + Penguins
+
+If you'd like to connect with me, you can send me a friend request on [Facebook](https://www.facebook.com/VivianLei1999)
