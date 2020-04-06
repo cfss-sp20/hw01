@@ -19,4 +19,6 @@ Here are some of my favorite animals:
 
 If you'd like to connect with me, you can send me a friend request on [Facebook](https://www.facebook.com/VivianLei1999)
 
-![Finally, here is a photo of my cat Godot](90217351_511233089587711_8380126470382551040_n.jpg)
+![a photo of my cat ](90217351_511233089587711_8380126470382551040_n.jpg)
+
+Finally, here is a photo of my cat Godot.
