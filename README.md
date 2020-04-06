@@ -15,4 +15,4 @@ me <- list(name = c("Boseong Yun"),
              SSN = c(1223328, "No, this is just a joke"))
              
 print(me)
-```{}        
+```
