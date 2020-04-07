@@ -14,11 +14,11 @@ My name is **Boseong Yun** and please feel free to call me **Peter**! I am a fir
 
 ## Reflections
 
-- Github Workflow
+- *Github Workflow:*
 This homework would have been impossible had it not been for the very instructive **video tutorial** uploaded on the course website. Specifically, it was hard to understand the dynamics of github and its versatilty with the R enviornment in forking, committing, pulling, and performing other commands. The video tutorial provided clear mapping to what and why I was actually doing by using these commands. 
 
-- Rmarkdown
+- *Rmarkdown:*
 I was able to experiment with  headers, emphasis, lists, images, and links mostly referring to [Rmarkdown-cheatsheet](https://rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf) provided by the R studio. At first, I understood the list as a data type but I quickly realized that lists were one of the syntaxes used in Rmarkdown. Also, it was quite challenging to embed a image because I had to think about how the working repository worked on the virtual _RStudio Server platform_ in conjucntion with Github. Mostly, the difficulty came not from Rmarkdown necessarily but from integrating Rmarkdown and Github into an integrated unit. I was able to find the answers by trial and error where I had to erase and re-create a whole new repository. 
 
-- Final Thoughts
+- *Final Thoughts:*
 As mentioned by professor Soltoff, I think it is important to _understand_ the underlying mechanics of Github Workflow and R. This exercise turned out to be a lot more rewarding than I had intially thought specifically due to the requirement that I comprehend the workings of these two systems. 
