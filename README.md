@@ -7,6 +7,13 @@
   * Acadmeic interests: gender equality
   * hobby: Youtube
 
+
+* Reflection
+  * Github Workflow
+  * Rmarkdown
+  * Final Thoughts
+  
+  
 ## Introduction
 ![me](Michigan.jpg)
 
