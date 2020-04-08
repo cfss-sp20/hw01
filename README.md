@@ -1,4 +1,6 @@
 # hw01
+
+(https://github.com/jchon11/myrepo/blob/master/joshchon.png)
 ## Joshua Chon
 
 ### Summary
@@ -13,9 +15,9 @@ My hobbies include:
 2. Camping
 3. Biking
 4. Watching movies. My favorite movies are...
-  * The Godfather
-  * Citizen Kane
-  * The Grand Budapest Hotel
+  * *The Godfather*
+  * *Citizen Kane*
+  * *The Grand Budapest Hotel*
   
 ### Link
 https://apexlab.uchicago.edu/
