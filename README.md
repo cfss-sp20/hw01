@@ -1,5 +1,5 @@
 # hw01
-
+![Image of JoshChon]
 (https://github.com/jchon11/myrepo/blob/master/joshchon.png)
 ## Joshua Chon
 
