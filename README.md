@@ -15,4 +15,4 @@ And just some fun facts. My favoriate quarantine snacks are:
 + Roasted mushrooms 
 + Ice cream
 + Chips
--all flavors
+  -all flavors
