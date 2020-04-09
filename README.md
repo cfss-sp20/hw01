@@ -2,7 +2,7 @@
 
 # **Jessica Lee** (*preferred*: Jess)
 
-![This is me!](https://www.facebook.com/photo.php?fbid=1121862651210083&set=a.105723912823967&type=3&theater)
+![This is me!](/Users/JessicaLee/Desktop/Jess.jpg)
 
 ## **About Me**
 
@@ -18,8 +18,7 @@
 ## **Research**
 
 * I am a MAPSS student concentrating in Psychology.
-* With my MA thesis, I am investigating whether race is a salient cue for preverbal infants when forming expectations about third-party interracial interactions.
-   +[Infant Learning and Development Laboratory](https://voices.uchicago.edu/woodwardlab/)
+* With my MA thesis, I am investigating whether race is a salient cue for preverbal infants when forming expectations about third-party interracial interactions. [Infant Learning and Development Laboratory](https://voices.uchicago.edu/woodwardlab/)
 * General research interests
    + Development of social categories in infants and children
    + Intergroup relations and discrimination
