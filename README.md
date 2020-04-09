@@ -21,4 +21,4 @@ Aspect | Information
 ![Michael Jackson](Michael_Jackson_-_Man_in_the_Mirror.png)
 
 * You are welcome to add me on Facebook (~~although I don't talk a lot~~)! :point_down:
-[Add Facebook](http://www.facebook.com/yan.emma.3)
+  * [Add Facebook](http://www.facebook.com/yan.emma.3)
