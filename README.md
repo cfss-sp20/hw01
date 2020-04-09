@@ -1,8 +1,4 @@
----
-output:
-  html_document: default
-  pdf_document: default
----
+
 # hw01
 
 My name is **Bingxin** (Janssie) Zhu. In this course, I  want to 
