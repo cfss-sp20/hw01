@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ###Brief Biography Arline
 My name is Arline Lee. I am a *museum science teacher*. I am unabashedly and unironically a huge fan of 
 * **Science Fiction**
@@ -9,3 +10,8 @@ My name is Arline Lee. I am a *museum science teacher*. I am unabashedly and uni
 ---------
 I love travelling---before coming to the MAPSS program, I travelled for four months---one of my favorite places was Georgia---but I didn't take any photos of me there so here's one from Armenia. 
 !(downloads/Armenia Profile.jpeg)
+=======
+# hw01
+
+My name is Arline Lee. 
+>>>>>>> 6aa0340be210dbe4aa7bd8366e00d732e9c87150
