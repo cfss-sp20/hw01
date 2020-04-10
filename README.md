@@ -9,4 +9,4 @@ My name is Arline Lee. I am a museum science teacher. I am unabashedly and uniro
     + Before you ask, it's *You've Got Mail* and I do not like *Sleepless in Seattle*
 ---------
 I love travelling--before coming to the MAPSS program, I travelled for four months--one of my favorite places was Georgia--but I didn't take any photos of me there so here's one from Armenia.   
-![alt text](/users/arlinelee/Documents/University of Chicago/MACS/Armenia Profile.jpeg)
+![alt text](/users/arlinelee/Documents/University of Chicago/MACS/Armenia Profile.jpg)
