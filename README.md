@@ -11,7 +11,7 @@ Hello, my name is **Takuya Matsumoto**, a 2nd year *MPP* student at [Harris Scho
 
 My favorite subjects are
 
-- <font color="red">Econometrics</font>
-- <font color="blue">Machine Learning</font>
-- <font color="green">Programming</font>
+- <u>**Econometrics**</u>
+- <u>**Machine Learning**</u>
+- <u>**Programming**</u>
 
