@@ -10,6 +10,6 @@ I did my senior thesis for public policy on Chicago Public School's [Healthy CPS
 Here are some fun facts about me:
 * I am from [Louisville, KY](https://en.wikipedia.org/wiki/Louisville,_Kentucky) and am currently taking this class in my parents' house there. 
 * I am fluent in Spanish and trying to learn [Catalan](https://en.wikipedia.org/wiki/Catalan_language). 
-* I have one sister. People say we look like twins, but she is actually five years younger than me. ![](Users/emmabadia/Desktop/MEandGABI.png)
+* I have one sister. People say we look like twins, but she is actually five years younger than me. ![](file:///Users/emmabadia/Desktop/MEandGABI.png)
 
 I think that's all the important information about me. I'm looking forward to the quarter! 
