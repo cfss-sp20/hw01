@@ -1,7 +1,7 @@
 # hw01
 
-#Biography
-###Heather Weller
+# Biography
+### Heather Weller
 My name is **Heather Weller** and I am a 3rd year Public Policy Major and Human Rights Minor. Here are a few facts about me:
 1. I love [narwhals](https://en.wikipedia.org/wiki/Narwhal)
 2. I have started two non-profits named:
