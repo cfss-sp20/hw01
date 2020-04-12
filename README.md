@@ -30,7 +30,8 @@ When I first came to the United States, my grandparents were very worried about 
 
 My lovely puppy, __Geni__, is a 3 year-old poodle. He is very friendly, lively and lovely. When I was back home in Korea, I loved to have a short walk with him everyday. It was a happy distraction from all the works I needed to do. 
 
-![Picture of Geni](/Users/soominkim/Desktop/Genipicture.jpeg)
+![Picture of Geni](Genipicture.jpeg)
+
 
 
 
