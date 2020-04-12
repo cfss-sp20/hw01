@@ -5,7 +5,7 @@
 **Who am I?**
 ========
 
-![This is me!](../hw01/LUIS.jpg "LUIS"){ width=30% }
+![This is me!](../hw01/LUIS.jpg "LUIS")
 
 
 Hello!
