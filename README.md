@@ -2,7 +2,7 @@
 
 ## Regina Catipon Bio
 
-![alt text][logo]
+![image](profile.jpg)
 
 Hi, I’m Regina. I’m one part verve and two parts curiosity.
 
