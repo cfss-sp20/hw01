@@ -5,7 +5,7 @@
 **Who am I?**
 ========
 
-![This is me!](../hw01/LUIS.jpg "LUIS")
+![This is me!](https://github.com/recalderamirez/hw01/blob/master/LUIS.jpg?raw=true "LUIS"){ width=30% }
 
 
 Hello!
