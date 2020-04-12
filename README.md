@@ -15,3 +15,8 @@ We are dedicated to understanding the following interesting topics:
 * Figurative Language
  * How do people understand figurative language such as metaphors, idioms, irony and sarcasm? 
 
+# My best friend
+This is Peaches, my best friend during quarantine.
+She makes me happy everyday :)
+![peaches](https://github.com/sarahcy1/hw01/blob/master/IMG_4007.jpg)
+
