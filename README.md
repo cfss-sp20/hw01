@@ -4,9 +4,8 @@
 
 Hi, I’m **Regina**. I’m one part verve and two parts curiosity.
 
-<div><img src="profile.jpg"
-     alt="profile"
-     style="float: left; margin-right: 10px;"></div>
+
+<div><img src="https://rkcatipon.files.wordpress.com/2015/02/10014802_10153266423432857_4524792863877171598_o.jpg"></div>
 
 A former journalist turned social scientist, I am now  pursuing a masters in Computational Social Science from the University of Chicago to explore information dissemination online.
 
