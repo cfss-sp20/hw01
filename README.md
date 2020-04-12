@@ -7,5 +7,8 @@ I have cultivated a new interest in the intersection between conflict and childh
 
 Now, on a more *personal level*, I love dogs. Back in Colombia I had the cutest mix breed dog, her name is Pepper. My parents are taking care of her. Here is a picture of her lovely face. 
 
-![] (Pepper_HW1.jpeg)
+![](Pepper_HW1.jpeg)
+
+
+
 
