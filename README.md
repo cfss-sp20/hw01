@@ -5,9 +5,16 @@ I was born in Bogota, Colombia. I consider myself a policy professional with int
 
 I have cultivated a new interest in the intersection between conflict and childhood development; looking for professional opportunities that allow me to apply her social policy expertise within violent and conflict contexts. Here you can find my [LinkedIn profile](www.linkedin.com/in/maria-benavides-c)
 
-Now, on a more *personal level*, I love dogs. Back in Colombia I had the cutest mix breed dog, her name is Pepper. My parents are taking care of her. Here is a picture of her lovely face. 
+Now, on a more *personal level*, I love dogs. Back in Colombia I had the cutest mix breed dog, her name is Pepper. My parents are taking care of her at the moment. Here is a picture of her lovely face that I miss so much. 
 
-![](Pepper_HW1.jpeg)
+![Pepper, the cutest dog](Pepper_HW1.jpeg)
+
+During this quaratine time I have been trying to adjust by having a routine. Some of the activities I tried to do on a daily basis are: 
+* Exercising (yoga and zumba are my favorites).
+* Cooking healthy foods (although I'm not a great cooker)
+* Readings and assignments
+* Some Switch break (the only game I can play is Smash)
+* Organizing (it helps with keeping me sane)
 
 
 
