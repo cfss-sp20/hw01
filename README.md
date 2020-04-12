@@ -4,9 +4,9 @@
 
 Hi, I’m **Regina**. I’m one part verve and two parts curiosity.
 
-<img src="profile.jpg"
+<div><img src="profile.jpg"
      alt="profile"
-     style="float: left; margin-right: 10px;" />
+     style="float: left; margin-right: 10px;"></div>
 
 A former journalist turned social scientist, I am now  pursuing a masters in Computational Social Science from the University of Chicago to explore information dissemination online.
 
