@@ -11,4 +11,4 @@ My name is **Heather Weller** and I am a 3rd year Public Policy Major and Human 
 4. I will be doing the 5-year BA/MA Program at Harris next year!
 5. I am in UC Cheer at UChicago (along with many other RSO's)  
 That's all for now, except for a picture of me that you will find below!
-![Image of Heather Cheering](/hw01/README_files/cheer.png)
+![Image of Heather Cheering](cheer.png)
