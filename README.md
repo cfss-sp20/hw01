@@ -2,7 +2,7 @@
 
 ## Biography
 
-![Profile Image](C:\Users\44203\Pictures\desktop)
+![Profile Image](C:\Academics\Spring 2020\Computing in Social sciences\hw01\profile.jpg)
 * **Name:** Hanyang (Henry) Zhang
 * **Program:** MAPSS Econ
 * **Hometown:** Hangzhou
@@ -10,6 +10,6 @@
   * Applied Microeconomic Theory
   * Game Theory
   * Applied Microeconomics
-* **Email:** [zhanghanyang@uchicago.edu](zhanghanyang@uchicago.edu)
+* **Email:** <zhanghanyang@uchicago.edu>
 
 Nice to meet everyone from class!
