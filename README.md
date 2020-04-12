@@ -2,12 +2,10 @@
 
 ## Regina Catipon Bio
 
+
+<div><img src="https://rkcatipon.files.wordpress.com/2015/02/10014802_10153266423432857_4524792863877171598_o.jpg" width="200" height="300" align="left"></div>
+
 Hi, I’m **Regina**. I’m one part verve and two parts curiosity.
-
-
-<div><img src="https://rkcatipon.files.wordpress.com/2015/02/10014802_10153266423432857_4524792863877171598_o.jpg" width="200" height="325"></div>
-
-
 
 A former journalist turned social scientist, I am now  pursuing a masters in Computational Social Science from the University of Chicago to explore information dissemination online.
 
