@@ -16,7 +16,7 @@ Before academia, I worked as the Product Marketer for the data analytics platfor
 I have taken courses in statistics, modelling, and text analysis with machine learning. This quarter I'm taking:
 
 * MACS 30200: Perspectives on Computational Research
-* MACS 40100: Computing for the Social Sciences
+* MACS 30500: Computing for the Social Sciences
 * MACS 40100: Big Data & Society
 
-In the past, I've completed courses in Product Management and Data Science from General Assembly. I’ve also won awards in both data visualization and video production. If you’re interested in taking a look at my work,check it out <a href="https://rkcatipon.com/">here</a>.
+In the past, I've completed courses in Product Management and Data Science from General Assembly. I’ve also won awards in both data visualization and video production. If you’re interested in taking a look at my work, check it out <a href="https://rkcatipon.com/">here</a>.
