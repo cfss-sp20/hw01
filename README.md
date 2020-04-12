@@ -12,8 +12,8 @@ Here's a picture of me (with my daughter clumsily cropped out):
 
 Some things we've baked during lockdown: 
 1. gingerbread 
-  1. https://cooking.nytimes.com/recipes/1012460-dark-molasses-gingerbread-with-whipped-cream would recommend. very moist and not too sweet. add some extra ginger and candied ginger
+    1. https://cooking.nytimes.com/recipes/1012460-dark-molasses-gingerbread-with-whipped-cream would recommend. very moist and not too sweet. add some extra ginger and candied ginger
 1. easter egg bread    
-  1. https://www.tasteofhome.com/recipes/easter-egg-bread/ did not come out too well with gluten free flour. noticed too late that the "all-purpose flour" I was using was basically ground fava beans
+    1. https://www.tasteofhome.com/recipes/easter-egg-bread/ did not come out too well with gluten free flour. noticed too late that the "all-purpose flour" I was using was basically ground fava beans
 1. red velvet cake 
-  1. https://www.foodnetwork.com/recipes/southern-red-velvet-cake-recipe-2011892 the buttermilk makes it
+    1. https://www.foodnetwork.com/recipes/southern-red-velvet-cake-recipe-2011892 the buttermilk makes it
