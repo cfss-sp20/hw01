@@ -1,11 +1,10 @@
-# hw01
 
 # My Autobiography
 
 
-My name is Tatiana Hernández and I am from Ohio. Currently, I am a graduate student in the MAPSS program. Some of my current research interests include:
+My name is Tatiana Hernández and I am from Ohio. Currently, I am a graduate student in the MAPSS program. Some of my research interests include:
 
-* Central American emigration
+* **Central American** emigration
 * state criminalization of deportees
 * public *perceptions* of violence and punitive anticrime measures
 
@@ -13,7 +12,7 @@ I am especially interested in studying political topics related to **El Salvador
 
 ![Map of El Salvador](https://www.nationsonline.org/maps/el_salvador_map.jpg)
 
-My grandma and my uncle live in the city of San Salvador. I also have an aunt and an uncle that live in South Korea. I was able to get to know them better after college because I lived there for three years. In the future I would like to travel more. 
+My dad is from El Salvador and my grandma and my uncle live in the city of San Salvador. You can find San Salvador close to Lago de Ilopango on the map. I also have an aunt and an uncle that live in Seoul, South Korea. I was able to get to know them better after college because I lived there for three years. I loved living in South Korea. In the future, I would like to travel to more places.
 
 
 *Here are a few places I have been:*
