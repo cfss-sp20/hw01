@@ -4,7 +4,7 @@
 
 Hello, My name is **Tianhong Yin**, an MA student in international relations at the University of Chicago.
 
-My research interests include:
+My **research interests** include:
 * Conflict Studies
 * American Foreign Policy
 * American Politics
