@@ -9,3 +9,5 @@ My name is **Guillermo Guevara** and I am second year MPP at Harris. Before comi
 - Political Accountability
 
 [Here you can check a photo of my idol Andy Murray](https://en.wikipedia.org/wiki/Andy_Murray#/media/File:Andy_Murray_(44087043305).jpg)
+
+[Here you can check my linkdl page](https://www.linkedin.com/feed/?trk=guest_homepage-basic_nav-header-signin)
