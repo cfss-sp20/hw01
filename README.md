@@ -20,4 +20,4 @@ I have sang in **Run for Cover**, our on-campus acappella group, for the past fo
 
 ## Conclusion
 
-Thanks so much for reading!
+Thanks so much for reading! Have a great day.
