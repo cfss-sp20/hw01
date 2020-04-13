@@ -14,8 +14,14 @@ I opened the README file using R Studio and Git as the version control software
 I edited the README: added the following sections - about me, purpose of this project, how I created this file
 I stages and commited the file, then pushed it to GitHub
 
+REFLECTION
 The process was a bit confusing because I have not used Git before, and so at first I was using GitHub desktop, only to realize that Git and GitHub are different. 
 
 
+LINKS THAT I FOUND USEFUL
+hw01 Video - https://cfss.uchicago.edu/homework/edit-readme/
 
+Getting Started With R Markdown - https://rstudio.com/resources/webinars/getting-started-with-r-markdown/
+
+R Markdown Cheat Sheet - https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
 
