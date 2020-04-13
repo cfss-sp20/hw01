@@ -2,7 +2,7 @@
 
 ## **About Me**
 
-Hello, My name is Tianhong Yin, an MA student in international relations at the University of Chicago.
+Hello, My name is **Tianhong Yin**, an MA student in international relations at the University of Chicago.
 
 My research interests include:
 Conflict Studies
