@@ -15,6 +15,7 @@ I am especially interested in studying political topics related to **El Salvador
 My dad is from El Salvador and my grandma and uncle live in the city of San Salvador. You can find San Salvador close to Lago de Ilopango on the map. I also have an aunt and uncle that live in South Korea. I was able to get to know them better after college because I lived there for three years.
 
 ![Anyang](https://upload.wikimedia.org/wikipedia/commons/f/f0/Anyang_city.jpg)
+
 This is Anyang-si, where I used to live. I loved my neighborhood and I cannot wait to visit it again. In the future, I would also like to travel to more places.
 
 
