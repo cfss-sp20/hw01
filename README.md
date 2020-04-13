@@ -1,6 +1,6 @@
 # hw01
 
-# Brief biography
+# Brief biography 
 
 My name is **Sruti Kanthan**. I studied psychology in my undergrad, and I am currently a student in the _Masters of Computational Social Science_ program here at UChi. [Here is a link to my github page](https://github.com/skanthan95), where you can see my projects and repositories.
 I was born and raised in New Jersey, have one sister, and a fluffy brown labradoodle named Beau. I moved out to MA after graduating college to work for two years, and then moved to IL for grad school. 
