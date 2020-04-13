@@ -1,5 +1,5 @@
 # hw01
-# **Story of my life**
+# **Story of My Life**
 
 I am Wei, a psychology graduate student trying to learn how to use R. I am from Changsha, a southern city in China that always rains in the spring and summer time. I do environment-related research here in the University of Chicago. [Here is a link to my lab website ](http://enl.uchicago.edu/) where you can learn more about my projects.
 
