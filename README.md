@@ -11,3 +11,7 @@ My name is Lauren Park. I am a second year at the College, and am a Sociology an
 * Sitting on the quad when the weather is nice
 
 [Here is the link to one of my favorite food blog guides! Enjoy!:)](https://chicago.eater.com/2018/1/5/16151978/best-food-chicago-restaurants-city-guide)
+
+Last but not least, these are some pictures I have taken over the past two years. Definitely some of the **best** times I've had in college!
+
+
