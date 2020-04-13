@@ -9,3 +9,5 @@ My name is Lauren Park. I am a second year at the College, and am a Sociology an
 * Running along the lake
 * Exploring new neighborhoods
 * Sitting on the quad when the weather is nice
+
+[Here is the link to one of my favorite food blog guides! Enjoy!:)](https://chicago.eater.com/2018/1/5/16151978/best-food-chicago-restaurants-city-guide)
