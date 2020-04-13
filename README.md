@@ -25,13 +25,13 @@ __My research interests include__:
                   
 Here is the image I uploaded as my github avatar, embedded in this README: ![sruti](sruti.jpg). This wasn't working at first because the picture was in the wrong repo, so I moved it and now it should render.
 
-Assignment To-do:
+Assignment To-do (6 elements)
 - [x] Header
 - [x] Bold/Italic
 - [x] Link
-- [x] Image (had some issues with this, so list is my fourth element)
+- [x] Image 
 - [x] Lists
-- [x] Marking complete/incomplete tasks (fifth element)
+- [x] Marking complete/incomplete tasks 
 
 I included the "report your process" points when I submitted this assignment through pull request, but here they are just in case:
 
