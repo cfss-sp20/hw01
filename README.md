@@ -15,5 +15,5 @@ My hobbies include:
 I'd like to share one of my favorite music with you guys 
 [Men I Trust - Pines](https://youtu.be/cYFYnA4Nd5U)
 
-![](https://images.app.goo.gl/2yeWBF91DWqoYNci6)
+![Nice to meet you guys](https://images.app.goo.gl/2yeWBF91DWqoYNci6)
 
