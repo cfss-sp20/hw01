@@ -4,7 +4,7 @@
 
 Hello, my name is **Eunsil Choi**, a MA student in Committee on International Relations.  
 
-I was born and raised in South Korea. I came to here for graduate study. My current research interests lie in *international institutions*, *global governance*, and *the role of international norms*. 
+I was born and raised in South Korea. I came here for graduate study. My current research interests lie in *international institutions*, *global governance*, and *the role of international norms*. 
 
 My hobbies include:
 * Yoga and meditation
