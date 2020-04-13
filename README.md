@@ -4,7 +4,7 @@
 
 My name is Lauren Park. I am a second year at the College, and am a Sociology and French major. I was born and raised in Los Angeles. I am also on the women's varsity tennis team. 
 
-##### These are a few of *my favorite things* to do in Chicago:
+#### These are a few of *my favorite things* to do in Chicago:
 * Eating at new restaurants
 * Running along the lake
 * Exploring new neighborhoods
