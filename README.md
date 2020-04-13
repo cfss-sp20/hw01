@@ -4,7 +4,7 @@
 
 Hello, my name is **Eunsil Choi**, a MA student in Committee on International Relations.  
 
-<img src="PICTURE/IMG_4591.JPG" width="250" height="250">
+<img src="PICTURE/IMG_4591 (1).JPG" width="250" height="250">
 
 I was born and raised in South Korea. I came to here for graduate study. My current research interests lie in *international institutions*, *global governance*, and *the role of international norms*. 
 
