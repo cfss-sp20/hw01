@@ -6,15 +6,15 @@ Hello. My name is __Soomin Kim__. I am a MA student of _Committee on Internation
 # Research Interest
 I have three main research interests.
 
-**1. Nuclear Security**
+1. **Nuclear Security**
 
-  Coming from South Korea, I was always exposed to North Korea's nuclear weapon development. Whenever the nuclear missile testing was done, the whole world was reacting to it. I was curious, how can we predict North Korea's behavior in terms of nuclear weapons?, what is the real motivation for them to do so. 
+    Coming from South Korea, I was always exposed to North Korea's nuclear weapon development. Whenever the nuclear missile testing was done, the whole world was reacting to it. I was curious, how can we predict North Korea's behavior in terms of nuclear weapons?, what is the real motivation for them to do so. 
 
-**2. Political Economy**
+2. **Political Economy**
 
-  World now imposes economic sanctions against North Korea as a warning sign. Does that work? Will North Korea come out to the table and start the talk? If the economic sanctions are not effective, why is that? I think a newly emerging capitalist group, *Donju* dilutes the effectiveness. 
+    World now imposes economic sanctions against North Korea as a warning sign. Does that work? Will North Korea come out to the table and start the talk? If the economic sanctions are not effective, why is that? I think a newly emerging capitalist group, *Donju* dilutes the effectiveness. 
 
-**3. Regional Interest**
+1. **Regional Interest**
 
     + Northeast Asia: China, North Korea, South Korea, Japan
     + Latin America: Cuba
