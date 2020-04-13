@@ -6,4 +6,3 @@ Some of the foreign languages I have studied are:
 - Mandarin
 - Arabic
 - Spanish
-
