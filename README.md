@@ -14,8 +14,7 @@ My hobbies include:
 
 I'd like to share one of my favorite music with you guys 
 [Men I Trust - Pines](https://youtu.be/cYFYnA4Nd5U)
-
-<img src="PICTURE/menitrust.jpg" width="250" height="250">
+![](https://f4.bcbits.com/img/a1218600937_10.jpg)
 
 
 
