@@ -6,6 +6,8 @@ My name is **Mercedes Gonzalez**.
 
 I am Mexican and have lived in Mexico City all my life.
 
+![Mexico](https://es.wikipedia.org/wiki/M%C3%A9xico#/media/Archivo:Taxco_Santa_Prisca.jpg)
+
 Currently, I am a first year graduate student at the **Harris School of Public Policy**.
 
 Among some hobbies, I am interested in:
@@ -16,4 +18,4 @@ Among some hobbies, I am interested in:
 
 Also, I like the event of the Mexican Association, since it organizes interesting events often. Here is the link of it in case you want to learn more about it:
 
-+ - [University of Chicago Mexican Association](https://www.facebook.com/MexicansAtUChicago/)
+[University of Chicago Mexican Association](https://www.facebook.com/MexicansAtUChicago/)
