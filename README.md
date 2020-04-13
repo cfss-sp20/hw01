@@ -13,4 +13,4 @@ My **research interests** include:
 I am a cat person and I love to know everything about cats during my spare time. Here is the [link to a cat forum](http://thecatsite.com) I often visit to learn how to care cats.
 
 I also have two cats in my home back in China, and below is their photo.
-![Cat Photo](https://www.facebook.com/photo.php?fbid=228099471743168&set=a.228099625076486&type=3&theater)
+![Cat Photo](https://scontent-xsp1-2.xx.fbcdn.net/v/t1.0-9/92608591_228099475076501_1090134855175372800_n.jpg?_nc_cat=104&_nc_sid=110474&_nc_ohc=Mk8JVjPa3xoAX8DBPDu&_nc_ht=scontent-xsp1-2.xx&oh=d252350ea2fe8cfcfd2cefaf4f1956f0&oe=5EB8BA0A)
