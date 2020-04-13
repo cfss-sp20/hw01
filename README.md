@@ -4,11 +4,11 @@
 
 My name is **Mercedes Gonzalez**.
 
+![Mercedes](/desktop/me.png)
+
 I am Mexican and have lived in Mexico City all my life.
 
-![Mexico](https://es.wikipedia.org/wiki/M%C3%A9xico#/media/Archivo:Taxco_Santa_Prisca.jpg)
-
-Currently, I am a first year graduate student at the **Harris School of Public Policy**.
+Currently, I am a first year graduate student at the *Harris School of Public Policy*.
 
 Among some hobbies, I am interested in:
 
