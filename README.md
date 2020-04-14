@@ -1,10 +1,12 @@
 # hw01
-#My Introduction
+# My Introduction
+
 ![Picture of me from the summer](https://scontent-ort2-1.xx.fbcdn.net/v/t1.0-9/68551018_2406605662727345_5013656229612879872_o.jpg?_nc_cat=101&_nc_sid=8024bb&_nc_ohc=h5MsPZwZ3-8AX_vzpJu&_nc_ht=scontent-ort2-1.xx&oh=ccf4c5bde72644f8030412a87d017d4a&oe=5EBBAFB4)
 
 Hello! My name is David Mendieta, and I am from Los Angeles, California. I am currently a third-year student majoring in Public Policy, and I aim to attend law school in the near future. While I am sad that I am away from family and friends at the moment, I am very excited to take Computing for the Social Sciences and see how I can better improve my skills in coding and R!
 
 ###L.A. to Chicago
+
 ![Image of Santos L Halper](https://scontent-ort2-1.xx.fbcdn.net/v/t1.0-9/67050843_2361407843913794_3635612463702999040_n.jpg?_nc_cat=107&_nc_sid=7aed08&_nc_ohc=NP7gpxVZKbkAX_QtzOb&_nc_ht=scontent-ort2-1.xx&oh=009eb9e1b6b86cc2aa267f6cab6ca404&oe=5EB9C811)
 
 I originally grew up in the neighborhood of _Koreatown_, a 15 minute drive from Downtown Los Angeles. I always lived with 6-8 people in my small, two-bedroom apartment, where I shared a space with my parents, older sister and brother, aunt, uncle, and two cousins - occasionally. What we lacked in physical space we made up with love and a strong support system, as we did whatever we could to make ends meet and have as stable of a life we could afford. My siblings had already been to college, but they stayed within the LA area. Hoping to branch out and see another part of the United States, I applied and recieved admission to UChicago as a **Quest Bridge Scholar**. I was nervous about leaving my family to attend school in a city I've never visited, but throughout the years my close friends have made it so easy every step of the way.
