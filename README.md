@@ -7,8 +7,8 @@ Hello, my name is **Nadiah Wong**!
 
 ## Who am I?
 
-I was born on 6 July 1997 in sunny Singapore
-This is what I look like: ![*Premature graduation photos because we probably would not be back together again soon :-(*](/Users/nadiah/Desktop/grad photos/DSC03848-2)
+I was born on 6 July 1997 in sunny Singapore!
+This is what I look like: ![](/Users/nadiah/Desktop/me.png)
 
 
 ### Interests
@@ -22,6 +22,6 @@ This is what I look like: ![*Premature graduation photos because we probably wou
 
 ## College Things
 
-I am a senior majoring in Comparative Human Development and minoring in Digital Studies of Language, Culture, and History (DIGS).
+I am a senior majoring in *Comparative Human Development* and minoring in *Digital Studies of Language, Culture, and History* (DIGS).
 
 This class is an elective for my DIGS minor. I really hope that this class continues to help me stregnthen my programming skills and further my interests in working within nonprofits on the data analytics side.
