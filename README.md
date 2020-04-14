@@ -5,7 +5,7 @@
 
 Hello! My name is David Mendieta, and I am from Los Angeles, California. I am currently a third-year student majoring in Public Policy, and I aim to attend law school in the near future. While I am sad that I am away from family and friends at the moment, I am very excited to take Computing for the Social Sciences and see how I can better improve my skills in coding and R!
 
-###L.A. to Chicago
+### L.A. to Chicago
 
 ![Image of Santos L Halper](https://scontent-ort2-1.xx.fbcdn.net/v/t1.0-9/67050843_2361407843913794_3635612463702999040_n.jpg?_nc_cat=107&_nc_sid=7aed08&_nc_ohc=NP7gpxVZKbkAX_QtzOb&_nc_ht=scontent-ort2-1.xx&oh=009eb9e1b6b86cc2aa267f6cab6ca404&oe=5EB9C811)
 
