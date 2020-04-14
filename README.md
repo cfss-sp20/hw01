@@ -8,7 +8,7 @@ Hello, my name is **Nadiah Wong**!
 ## Who am I?
 
 I was born on 6 July 1997 in sunny Singapore!
-This is what I look like: ![Japan 2019 during Winter Break](<img width="398" alt="me" src="https://user-images.githubusercontent.com/63589580/79246079-94d95580-7eab-11ea-87ed-e5bbd03bc277.png">)
+This is what I look like: ![Japan 2019 during Winter Break](<https://github.com/nadiahwong/hw01/blob/master/me.png>)
 
 
 ### Interests
