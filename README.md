@@ -6,7 +6,7 @@ My name is **Mercedes Gonzalez**.
 
 I am Mexican and have lived in Mexico City all my life.
 
-![Mexico](https://es.wikipedia.org/wiki/M%C3%A9xico#/media/Archivo:Taxco_Santa_Prisca.jpg)
+![Mexico](https://es.wikipedia.org/wiki/M%C3%A9xico#/media/Archivo:Diplomatic_missions_of_Mexico4.png)
 
 Among other hobbies, I am interested in:
 
