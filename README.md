@@ -5,7 +5,7 @@ I am a MAPSS student concentrating in education. My research centers around the 
 ## **Hobbies:**
   
   - playing video games
-  - YouTube, specifically PewDiePie: <https:://https://www.youtube.com/channel/UC-lHJZR3Gqxm24_Vd_AJ5Yw>  
+  - YouTube, specifically PewDiePie: <https://www.youtube.com/channel/UC-lHJZR3Gqxm24_Vd_AJ5Yw>  
   - watching horror films
   - reading
   - cooking
