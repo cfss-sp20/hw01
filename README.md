@@ -6,7 +6,7 @@
 
 Hi! I am a second year **MPP student** :neckbeard: and peruvian **economic analyst** :bowtie:.
 
-* :school_satchel: Education: at [*Harris School of Public Policy*](https://harris.uchicago.edu/)
+* :school_satchel: Education: [*Harris School of Public Policy*](https://harris.uchicago.edu/)
 * :bank: Work: [*Central Reserve Bank of Peru*](https://www.bcrp.gob.pe/en)
 * Contact information:
   * :id: @fernandoregalado
