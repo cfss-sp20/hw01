@@ -4,18 +4,18 @@
 
 My name is **Mercedes Gonzalez**.
 
-![Mercedes](/desktop/me.png)
-
 I am Mexican and have lived in Mexico City all my life.
+
+![Mexico](https://es.wikipedia.org/wiki/M%C3%A9xico#/media/Archivo:Taxco_Santa_Prisca.jpg)
+
+Among other hobbies, I am interested in:
+
+* going to the cinema
+* reading literature and biographies
+* hanging out with my friends
 
 Currently, I am a first year graduate student at the *Harris School of Public Policy*.
 
-Among some hobbies, I am interested in:
-
-* going to the cinema
-* reading new authors
-* hanging out with my friends
-
-Also, I like the event of the Mexican Association, since it organizes interesting events often. Here is the link of it in case you want to learn more about it:
+I like the events that the Mexican Association at UChicago organizes, they are quite interesting. Here is the link of it in case you want to learn more about it:
 
 [University of Chicago Mexican Association](https://www.facebook.com/MexicansAtUChicago/)
