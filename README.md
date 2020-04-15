@@ -4,7 +4,7 @@
 
 My name is **Maya Krasovsky**.
 
-![*This is me outisde, taking in the sunshine*](/Users/mayakrasovsky/Desktop/IMG_8762.jpg)
+![*This is me outisde, taking in the sunshine*](https://user-images.githubusercontent.com/63366598/79288701-0f46ad00-7e8d-11ea-9f5b-d4be6c0efdd7.jpg)
 
 I am a second year in the College pursuing majors in *Sociology* and *Economics*. 
 
