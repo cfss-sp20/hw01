@@ -10,4 +10,4 @@ Here is a list of indoor activities that I would recommend for staying sane duri
 * Coloring 
 * Practicing an instrument
 Here is a picture of me the first time I tried girl scout cookies
-![](/Users/maelissvillepontoux/Desktop/Pictures/cookie photo.png)
+![Photo of me](/Users/maelissvillepontoux/Desktop/Pictures/cookie photo.png)
